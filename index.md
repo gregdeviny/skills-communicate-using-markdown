@@ -5,13 +5,17 @@
 ##### H5
 ###### H6
 
-## Exploring the World!
 
-### looks like there is not line for H3
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+## Exploring the World!
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
